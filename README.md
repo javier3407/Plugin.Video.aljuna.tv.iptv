@@ -1,1 +1,1 @@
-# Plugin.Video.aljuna.tv.iptv
+# Plugin.Video.funajavier.tv
